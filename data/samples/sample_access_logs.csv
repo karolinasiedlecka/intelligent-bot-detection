@@ -1,0 +1,9 @@
+ip,timestamp,method,url,status_code,user_agent
+192.168.1.10,2026-11-13T10:00:01,GET,/home,200,Mozilla/5.0
+192.168.1.10,2026-11-13T10:00:05,GET,/products,200,Mozilla/5.0
+192.168.1.10,2026-11-13T10:00:12,GET,/products/123,200,Mozilla/5.0
+192.168.1.10,2026-11-13T10:00:20,GET,/cart,200,Mozilla/5.0
+192.168.1.20,2026-11-13T10:00:01,GET,/products/1,200,Python-requests/2.31
+192.168.1.20,2026-11-13T10:00:02,GET,/products/2,200,Python-requests/2.31
+192.168.1.20,2026-11-13T10:00:03,GET,/products/3,200,Python-requests/2.31
+192.168.1.20,2026-11-13T10:00:04,GET,/products/4,200,Python-requests/2.31
